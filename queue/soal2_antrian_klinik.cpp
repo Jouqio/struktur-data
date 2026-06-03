@@ -20,7 +20,7 @@ void ambilNomor(queue<int>& antrian, int& nomorUrut) {
     // Increment counter SEBELUM push agar dimulai dari 1
     nomorUrut++;
 
-    antrian.push(nomorUrut);    // enqueue nomor baru ke belakang
+    antrian.push(nomorUrut);    // enqueue nomor baru ke belakang.
 
     cout << "  ✔ Nomor antrian Anda : " << nomorUrut << endl;
     cout << "  Posisi dalam antrian : " << antrian.size() << endl;
