@@ -33,7 +33,7 @@ void tampilAntrian(queue<string> antrian) {
     int nomor = 1;
     while (!antrian.empty()) {
         cout << "  " << nomor++ << ". " << antrian.front() << endl;
-        antrian.pop();   // hapus dari salinan, bukan aslinya
+        antrian.pop();   // hapus dari salinan, bukan aslinya.
     }
 }
 
