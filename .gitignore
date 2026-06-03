@@ -10,3 +10,15 @@ soal3
 # OS files
 .DS_Store
 Thumbs.db
+
+# IDE
+.vscode/
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+a.out
+soal1
+soal2
+soal3
