@@ -1,0 +1,12 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+a.out
+soal1
+soal2
+soal3
+
+# OS files
+.DS_Store
+Thumbs.db
