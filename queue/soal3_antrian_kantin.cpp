@@ -82,7 +82,7 @@ void tampilDaftar(queue<Pesanan> antrian) {
         return;
     }
 
-    cout << "\n  ╔══════════════════════════════════╗" << endl;
+    cout << "\n╔══════════════════════════════════╗" << endl;
     cout << "  ║         DAFTAR PESANAN           ║" << endl;
     cout << "  ╚══════════════════════════════════╝" << endl;
 
